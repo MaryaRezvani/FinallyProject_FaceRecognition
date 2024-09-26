@@ -1,0 +1,10 @@
+# Configuration for Face Recognition Project
+
+# Directories and database path
+known_faces_dir : 'image/label'  # Path to the known faces directory
+group_images_dir : 'image/group_img'  # Path to the group images directory
+db_path : 'database/face_db.sqlite'  # Path to SQLite database
+
+# Thresholds for face detection and matching
+detection_confidence_threshold : 0.4  # Confidence threshold for detecting faces
+matching_threshold : 0.6  # Threshold for face matching (cosine distance)

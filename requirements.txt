@@ -1,0 +1,15 @@
+
+#Package       Version
+#------------- ---------
+insightface==0.7.3
+onnxruntime==1.19.0
+opencv-python==4.10.0.84
+pip==24.2
+seaborn==0.13.2
+setuptools==65.5.0
+numpy==1.21.0
+scipy==1.7.0
+matplotlib==3.4.2
+PyYAML==6.0.2
+typing_extensions==4.12.2
+logging==0.4.9.6
